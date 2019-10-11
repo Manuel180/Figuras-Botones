@@ -1,0 +1,58 @@
+.cuadro
+{
+    position: relative;
+    right: -340px;
+	border: solid red 1px;
+	width: 97px;
+	height: 97px;
+	display: inline-block;
+}
+
+.Cruz
+{
+	position: absolute;
+	margin-top: -500px;
+	right: 200px;
+}
+
+.RayDer
+{
+	position: absolute;
+	margin-top: -470px;
+	right: 200px;
+}
+
+.RayIzq
+{
+	position: absolute;
+	margin-top: -440px;
+	right: 200px;
+}
+
+.Arriba
+{
+	position: absolute;
+	margin-top: -410px;
+	right: 200px;
+}
+
+.Abajo
+{
+	position: absolute;
+	margin-top: -380px;
+	right: 200px;
+}
+
+.Equis
+{
+	position: absolute;
+	margin-top: -350px;
+	right: 200px;
+}
+
+.FigRar
+{
+	position: absolute;
+	margin-top: -320px;
+	right: 200px;
+}
